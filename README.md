@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **Stock Price prediction**
+- 🔭 I’m currently working on **computer vision**
 
-- 👯 I’m looking to collaborate on **Natural Language Processing Projects**
+- 👯 I’m looking to collaborate on **CV**
 
 - 📫 How to reach me **aaditya.m.saini@gmail.com**
 
